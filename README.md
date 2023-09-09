@@ -1,7 +1,7 @@
 # ERDToSQL
 ## Input:
 ERD as Hand-drawen image
-![Uploading Flowchart8.png…]()
+![Flowchart8](https://github.com/islamshaabaan/ERDToSQL/assets/36308342/58f6606d-e324-46c0-940f-c2d6656bb232)
 
 ## Output:
 SQL Queries like
