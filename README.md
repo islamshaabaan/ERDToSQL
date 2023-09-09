@@ -1,6 +1,8 @@
 # ERDToSQL
 ## Input:
 ERD as Hand-drawen image
+![Uploading Flowchart8.png…]()
+
 ## Output:
 SQL Queries like
 
